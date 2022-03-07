@@ -1,6 +1,12 @@
 const Expenses = () => (
-  <main>
-    <h2 className="text-teal-500">Expenses</h2>
+  <main className="h-screen bg-teal-300 flex flex-col justify-center items-center">
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
+    <h2 className="text-teal-500 text-8xl">Expenses</h2>
   </main>
 );
 
